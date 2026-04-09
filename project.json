@@ -1,0 +1,19 @@
+{
+  "overview": "A dark-themed study productivity website with a persistent to-do list, feature showcase cards, smooth navigation, and a hero section — all in one clean, modern app.",
+  "features": [
+    "Sticky navigation with smooth-scroll links",
+    "Hero section with call-to-action button",
+    "Feature cards for Notes, Timer, and AI Tools",
+    "Persistent to-do list with add and delete",
+    "Contact section and footer"
+  ],
+  "category": "productivity",
+  "tags": [
+    "study",
+    "productivity",
+    "todo",
+    "dark-theme",
+    "landing-page"
+  ],
+  "last_updated": "2026-04-09T06:52:09.086Z"
+}

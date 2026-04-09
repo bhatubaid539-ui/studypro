@@ -1,0 +1,11 @@
+type TaskId = nat;
+type Task = 
+ record {
+   id: TaskId;
+   title: text;
+ };
+service : {
+  addTask: (title: text) -> (Task);
+  deleteTask: (id: TaskId) -> ();
+  listTasks: () -> (vec Task) query;
+}
